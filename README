@@ -1,6 +1,6 @@
-ÓÃÓÚ Python µÄºº×Ö×ªÆ´Òô¿â
+ç”¨äº Python çš„æ±‰å­—è½¬æ‹¼éŸ³åº“
 
 Demo:
 from pinyin import Hanzi2Pinyin
 p = Hanzi2Pinyin()
-p.convert(u'ÄãºÃHello')
+p.convert(u'ä½ å¥½Hello')
