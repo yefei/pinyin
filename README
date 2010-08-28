@@ -1,0 +1,6 @@
+用于 Python 的汉字转拼音库
+
+Demo:
+from pinyin import Hanzi2Pinyin
+p = Hanzi2Pinyin()
+p.convert(u'你好Hello')
